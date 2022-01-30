@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DE0AF70C-8F1D-4553-8739-257F23364C75"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AD24FB2-B44E-4F0B-8842-40BBF7C50462"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieSolemti/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "7AD24FB2-B44E-4F0B-8842-40BBF7C50462 - d24772947c429007"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieSolemti.ContentView.init(username: Swift.String, password: Swift.String, authenticationDidFail: Swift.Bool) -&gt; MovieSolemti.ContentView"
+                  moduleName = "MovieSolemti"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fernux/Documents/appIOS/MovieSolemti/MovieSolemti/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "7AD24FB2-B44E-4F0B-8842-40BBF7C50462 - ab69da7d12fab7e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieSolemti.ContentView.init() -&gt; MovieSolemti.ContentView"
+                  moduleName = "MovieSolemti"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fernux/Documents/appIOS/MovieSolemti/MovieSolemti/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
